@@ -1,4 +1,4 @@
-# wall_street_bets_analysis
+# Wall Street Bets Analysis
 Analyse wall street bet post looking at the stocks and Crytos mentioned.
 
 This App web scrapes the wall street bet reddit page looking for stock tickers and crytos that are mentioned, this then added it to a POSTGRESSql data base.
