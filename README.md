@@ -8,7 +8,10 @@ A limitation to the sracpe is that it only picks up crytos and stocks that have 
 I then analyse the stocks in a jupter notebook by querying the database. 
 The outputs have also been deployed in a stream lit app.
 
-Enjoy
+Enjoy.
+
+
+Overview
 
 ## Summary
 ![image_1](https://user-images.githubusercontent.com/19586482/110432364-eaf84e00-80a6-11eb-8d88-bd904c33843d.png)
